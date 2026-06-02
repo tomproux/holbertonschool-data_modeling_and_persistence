@@ -1,3 +1,2 @@
-SELECT *
-FROM books
-MAX(stock);
+SELECT MAX(stock)
+FROM books;

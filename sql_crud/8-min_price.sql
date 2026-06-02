@@ -1,3 +1,2 @@
-SELECT *
-FROM books
-MIN(price);
+SELECT MIN(price)
+FROM books;

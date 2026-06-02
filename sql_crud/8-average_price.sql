@@ -1,3 +1,2 @@
-SELECT *
-FROM books
-AVG(price);
+SELECT AVG(price)
+FROM books;

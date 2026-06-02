@@ -1,3 +1,2 @@
-SELECT *
-FROM books
-SUM(stock);
+SELECT SUM(stock)
+FROM books;
