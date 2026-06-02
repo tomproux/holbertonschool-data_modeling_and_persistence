@@ -1,5 +1,5 @@
 CREATE TABLE books (
-    id INTEGER UNIQUE,
+    id INTEGER PRIMARY KEY UNIQUE,
     title TEXT NOT NULL,
     author TEXT NOT NULL,
     genre TEXT NOT NULL,
