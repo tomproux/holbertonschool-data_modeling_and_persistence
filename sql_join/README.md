@@ -1,0 +1,16 @@
+# sql_join #
+#### 1-books-with-authors.sql ####
+#### 2-authors-with-books.sql ####
+#### 3-students-and-courses.sql ####
+#### 4-courses-and-students.sql ####
+#### 5-students-with-enrollments.sql ####
+#### 6-courses-above-average.sql ####
+#### 7-course-enrollment-count.sql ####
+#### 8-courses-and-instructors.sql ####
+#### 9-instructors-and-courses.sql ####
+#### 10-students-and-registered-courses.sql ####
+#### 11-course-registration-count.sql ####
+#### 12-students-with-registrations.sql ####
+#### 13-courses-above-average-assignments.sql ####
+#### 14-courses-and-assignments.sql ####
+#### 15-instructors-with-active-courses.sql ####
