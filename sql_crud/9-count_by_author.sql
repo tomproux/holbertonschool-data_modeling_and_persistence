@@ -1,2 +1,3 @@
-SELECT COUNT(author)
-FROM books;
+SELECT author, COUNT(*)
+FROM books
+GROUP BY author;

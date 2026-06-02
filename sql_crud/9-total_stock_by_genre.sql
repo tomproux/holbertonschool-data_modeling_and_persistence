@@ -1,2 +1,3 @@
 SELECT genre, SUM(stock)
-FROM books;
+FROM books
+GROUP BY genre;
