@@ -1,1 +1,4 @@
-SELECT title, stock ORDER BY stock ASC LIMIT 5;
+SELECT title, stock
+FROM books
+ORDER BY stock DESC
+LIMIT 5;
