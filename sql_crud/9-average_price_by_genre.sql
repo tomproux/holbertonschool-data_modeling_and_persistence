@@ -1,2 +1,2 @@
 SELECT genre, AVG(price)
-FROM books
+FROM books;
